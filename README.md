@@ -1,3 +1,3 @@
 # TemperatureControlRTOS
 
-Trabalho da disciplina Sistema de Tempo Real do curso de Engenharia da Computação - UFMA
+Implementação de monitoramento e controle simples de temperatura utilizando o Arduino e o sistema operacional embarcado FreeRTOS.
